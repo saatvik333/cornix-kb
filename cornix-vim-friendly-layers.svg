@@ -1,0 +1,1297 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1392" height="2852" viewBox="0 0 1392 2852" role="img" aria-labelledby="title desc">
+<title id="title">Cornix Vim-Friendly Populated Layers</title>
+<desc id="desc">Polished black mockup showing populated Cornix keymap layers 0 through 4 without key overlap.</desc>
+<style>
+  .bg { fill: #000000; }
+  .layer-row { fill: #050505; stroke: #151515; stroke-width: 1; }
+  .layer-rule { stroke: #202020; stroke-width: 1; }
+  .layer-title { font: 500 18px Inter, Arial, Helvetica, sans-serif; fill: #f5f5f5; letter-spacing: 0; }
+  .key-shell { fill: #171717; stroke: #272727; stroke-width: 1; }
+  .key-face { fill: #262626; stroke: #333333; stroke-width: 1; }
+  .key-empty .key-face { fill: #141414; stroke: #202020; }
+  .key-empty .key-shell { fill: #101010; stroke: #1b1b1b; }
+  .key-empty .key-text { fill: transparent; }
+  .key-text { fill: #f5f5f5; font-family: Inter, Arial, Helvetica, sans-serif; font-weight: 400; text-anchor: middle; dominant-baseline: middle; letter-spacing: 0; }
+</style>
+<rect class="bg" width="100%" height="100%"/>
+<g class="layer" transform="translate(0,28)">
+<rect class="layer-row" x="0" y="0" width="1392" height="540"/>
+<text class="layer-title" x="32" y="31">Layer 0 · Base</text>
+<line class="layer-rule" x1="32" y1="49" x2="1360" y2="49"/>
+<g class="key">
+<rect class="key-shell" x="61.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="99.1" y="230.3">Tab</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="190.1" y="230.3">Q</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="281.1" y="201.3">W</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="147.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="372.1" y="172.3">E</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="463.1" y="201.3">R</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="554.1" y="230.3">T</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="99.1" y="302.8">Esc</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="190.1" y="302.8">A</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="281.1" y="273.8">S</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="219.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="372.1" y="244.8">D</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="463.1" y="273.8">F</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="554.1" y="302.8">G</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="375.3">LShift</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="190.1" y="375.3">Z</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="281.1" y="346.3">X</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="292.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="372.1" y="317.3">C</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="463.1" y="346.3">V</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="554.1" y="375.3">B</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="619.8" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="626.8" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="657.8" y="337.8">Mute</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="477.8">LCtrl</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="190.1" y="477.8">LGui</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="416.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="423.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="281.1" y="448.8">MO(3)</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="370.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="377.5" y="461.5" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="408.5" y="486.5">LAlt</text>
+</g>
+<g class="key" transform="rotate(12 506.8 482.6)">
+<rect class="key-shell" x="468.8" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="475.8" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="506.8" y="483.6">Space</text>
+</g>
+<g class="key" transform="rotate(22 601.4 500.0)">
+<rect class="key-shell" x="563.4" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="570.4" y="476.0" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="601.4" y="501.0">MO(1)</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="865.3" y="222.8">Back</text>
+<text class="key-text" style="font-size:12px" x="865.3" y="237.8">space</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="956.3" y="201.3">P</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="147.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1047.3" y="172.3">O</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="201.3">I</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1229.3" y="230.3">U</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1320.3" y="230.3">Y</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="865.3" y="302.8">Enter</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="956.3" y="273.8">\</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="219.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1047.3" y="244.8">L</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="273.8">K</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1229.3" y="302.8">J</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1320.3" y="302.8">H</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="723.6" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="730.6" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="761.6" y="330.3">Mouse</text>
+<text class="key-text" style="font-size:12px" x="761.6" y="345.3">1</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="865.3" y="375.3">/</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="956.3" y="346.3">Up</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="292.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1047.3" y="317.3">.</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="346.3">,</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1229.3" y="375.3">M</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1320.3" y="375.3">N</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1138.3" y="477.8">Right</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1229.3" y="477.8">Down</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1320.3" y="477.8">Left</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="976.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="983.5" y="461.5" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1014.5" y="486.5">MO(2)</text>
+</g>
+<g class="key" transform="rotate(-12 916.2 482.6)">
+<rect class="key-shell" x="878.2" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="885.2" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="916.2" y="483.6">Space</text>
+</g>
+<g class="key" transform="rotate(-22 821.6 500.0)">
+<rect class="key-shell" x="783.6" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="790.6" y="476.0" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="821.6" y="501.0">MO(4)</text>
+</g>
+</g>
+<g class="layer" transform="translate(0,592)">
+<rect class="layer-row" x="0" y="0" width="1392" height="540"/>
+<text class="layer-title" x="32" y="31">Layer 1 · Numbers + Symbols</text>
+<line class="layer-rule" x1="32" y1="49" x2="1360" y2="49"/>
+<g class="key">
+<rect class="key-shell" x="61.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="99.1" y="230.3">`</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="190.1" y="230.3">1</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="281.1" y="201.3">2</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="147.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="372.1" y="172.3">3</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="463.1" y="201.3">4</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="554.1" y="230.3">5</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="99.1" y="302.8">Tab</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="190.1" y="302.8">!</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="281.1" y="273.8">@</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="219.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="372.1" y="244.8">#</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="463.1" y="273.8">$</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="554.1" y="302.8">%</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="375.3">LShift</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="190.1" y="375.3">[</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="281.1" y="346.3">]</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="292.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="372.1" y="317.3">(</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="463.1" y="346.3">)</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="554.1" y="375.3">-</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="619.8" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="626.8" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="657.8" y="337.8">Mute</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="477.8">LCtrl</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="190.1" y="477.8">LGui</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="416.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="423.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="281.1" y="448.8">MO(3)</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="370.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="377.5" y="461.5" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="408.5" y="486.5">LAlt</text>
+</g>
+<g class="key" transform="rotate(12 506.8 482.6)">
+<rect class="key-shell" x="468.8" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="475.8" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="506.8" y="483.6">Space</text>
+</g>
+<g class="key key-empty" transform="rotate(22 601.4 500.0)">
+<rect class="key-shell" x="563.4" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="570.4" y="476.0" width="62" height="48" rx="6"/>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="865.3" y="230.3">Del</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="956.3" y="201.3">0</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="147.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1047.3" y="172.3">9</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="201.3">8</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1229.3" y="230.3">7</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1320.3" y="230.3">6</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="865.3" y="295.3">Back</text>
+<text class="key-text" style="font-size:12px" x="865.3" y="310.3">space</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="956.3" y="273.8">+</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="219.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1047.3" y="244.8">(</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="273.8">*</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1229.3" y="302.8">&amp;</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1320.3" y="302.8">^</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="723.6" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="730.6" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="761.6" y="330.3">Mouse</text>
+<text class="key-text" style="font-size:12px" x="761.6" y="345.3">1</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="865.3" y="375.3">/</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="956.3" y="346.3">=</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="292.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1047.3" y="317.3">&#x27;</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="346.3">;</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1229.3" y="375.3">,</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1320.3" y="375.3">.</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1138.3" y="477.8">Right</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1229.3" y="477.8">Down</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1320.3" y="477.8">Left</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="976.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="983.5" y="461.5" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1014.5" y="486.5">MO(2)</text>
+</g>
+<g class="key" transform="rotate(-12 916.2 482.6)">
+<rect class="key-shell" x="878.2" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="885.2" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="916.2" y="483.6">Space</text>
+</g>
+<g class="key" transform="rotate(-22 821.6 500.0)">
+<rect class="key-shell" x="783.6" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="790.6" y="476.0" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="821.6" y="501.0">MO(4)</text>
+</g>
+</g>
+<g class="layer" transform="translate(0,1156)">
+<rect class="layer-row" x="0" y="0" width="1392" height="540"/>
+<text class="layer-title" x="32" y="31">Layer 2 · Vim Nav + Editing</text>
+<line class="layer-rule" x1="32" y1="49" x2="1360" y2="49"/>
+<g class="key">
+<rect class="key-shell" x="61.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="99.1" y="230.3">Esc</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="190.1" y="230.3">C-Z</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="281.1" y="201.3">C-X</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="147.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="372.1" y="172.3">C-C</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="463.1" y="201.3">C-V</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="554.1" y="230.3">C-Y</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="99.1" y="302.8">Tab</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="190.1" y="302.8">LGui</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="281.1" y="273.8">LAlt</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="219.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="372.1" y="244.8">LCtrl</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="463.1" y="273.8">LShift</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="554.1" y="302.8">Caps</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="375.3">LShift</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="190.1" y="375.3">C-A</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="281.1" y="346.3">C-S</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="292.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="372.1" y="317.3">C-F</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="463.1" y="346.3">C-O</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="554.1" y="375.3">C-N</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="619.8" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="626.8" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="657.8" y="337.8">Mute</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="477.8">LCtrl</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="190.1" y="477.8">LGui</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="416.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="423.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="281.1" y="448.8">MO(3)</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="370.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="377.5" y="461.5" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="408.5" y="486.5">LAlt</text>
+</g>
+<g class="key" transform="rotate(12 506.8 482.6)">
+<rect class="key-shell" x="468.8" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="475.8" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="506.8" y="483.6">Space</text>
+</g>
+<g class="key" transform="rotate(22 601.4 500.0)">
+<rect class="key-shell" x="563.4" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="570.4" y="476.0" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="601.4" y="501.0">MO(1)</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="865.3" y="230.3">Del</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="956.3" y="201.3">PgUp</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="147.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1047.3" y="172.3">Home</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="201.3">Up</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1229.3" y="230.3">End</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1320.3" y="230.3">Ins</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="865.3" y="295.3">Back</text>
+<text class="key-text" style="font-size:12px" x="865.3" y="310.3">space</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="956.3" y="273.8">PgDn</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="219.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1047.3" y="244.8">Right</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="273.8">Up</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1229.3" y="302.8">Down</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1320.3" y="302.8">Left</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="723.6" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="730.6" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="761.6" y="330.3">Mouse</text>
+<text class="key-text" style="font-size:12px" x="761.6" y="345.3">1</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="865.3" y="375.3">Enter</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="956.3" y="346.3">Menu</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="292.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1047.3" y="317.3">End</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1138.3" y="346.3">Home</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1229.3" y="375.3">PgDn</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1320.3" y="375.3">PgUp</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1138.3" y="477.8">Right</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1229.3" y="477.8">Down</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1320.3" y="477.8">Left</text>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="976.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="983.5" y="461.5" width="62" height="48" rx="6"/>
+</g>
+<g class="key" transform="rotate(-12 916.2 482.6)">
+<rect class="key-shell" x="878.2" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="885.2" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="916.2" y="483.6">Space</text>
+</g>
+<g class="key" transform="rotate(-22 821.6 500.0)">
+<rect class="key-shell" x="783.6" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="790.6" y="476.0" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="821.6" y="501.0">MO(4)</text>
+</g>
+</g>
+<g class="layer" transform="translate(0,1720)">
+<rect class="layer-row" x="0" y="0" width="1392" height="540"/>
+<text class="layer-title" x="32" y="31">Layer 3 · Function + Numpad</text>
+<line class="layer-rule" x1="32" y1="49" x2="1360" y2="49"/>
+<g class="key">
+<rect class="key-shell" x="61.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="99.1" y="230.3">Esc</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="190.1" y="230.3">F1</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="281.1" y="201.3">F2</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="147.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="372.1" y="172.3">F3</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="463.1" y="201.3">F4</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="554.1" y="230.3">F5</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="99.1" y="302.8">Tab</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="190.1" y="302.8">F6</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="281.1" y="273.8">F7</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="219.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="372.1" y="244.8">F8</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="463.1" y="273.8">F9</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="554.1" y="302.8">F10</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="375.3">LShift</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="190.1" y="375.3">F11</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="281.1" y="346.3">F12</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="334.1" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="292.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="372.1" y="317.3">Print</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="463.1" y="346.3">Scroll</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="554.1" y="375.3">Pause</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="619.8" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="626.8" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="657.8" y="337.8">Mute</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="477.8">LCtrl</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="190.1" y="477.8">LGui</text>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="243.1" y="416.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="423.8" width="62" height="48" rx="6"/>
+</g>
+<g class="key">
+<rect class="key-shell" x="370.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="377.5" y="461.5" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="408.5" y="486.5">LAlt</text>
+</g>
+<g class="key" transform="rotate(12 506.8 482.6)">
+<rect class="key-shell" x="468.8" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="475.8" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="506.8" y="483.6">Space</text>
+</g>
+<g class="key" transform="rotate(22 601.4 500.0)">
+<rect class="key-shell" x="563.4" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="570.4" y="476.0" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="601.4" y="501.0">MO(1)</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="865.3" y="222.8">Num</text>
+<text class="key-text" style="font-size:12px" x="865.3" y="237.8">Lock</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="956.3" y="201.3">*</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="147.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1047.3" y="172.3">/</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="201.3">9</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1229.3" y="230.3">8</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1320.3" y="230.3">7</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="865.3" y="295.3">Num</text>
+<text class="key-text" style="font-size:12px" x="865.3" y="310.3">Enter</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="956.3" y="273.8">+</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="219.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1047.3" y="244.8">-</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="273.8">6</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1229.3" y="302.8">5</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1320.3" y="302.8">4</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="723.6" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="730.6" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="761.6" y="330.3">Mouse</text>
+<text class="key-text" style="font-size:12px" x="761.6" y="345.3">1</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="827.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="865.3" y="375.3">=</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="956.3" y="346.3">.</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="292.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1047.3" y="317.3">0</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1138.3" y="346.3">3</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1229.3" y="375.3">2</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:20px" x="1320.3" y="375.3">1</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1138.3" y="477.8">Right</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1229.3" y="477.8">Down</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1320.3" y="477.8">Left</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="976.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="983.5" y="461.5" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1014.5" y="486.5">MO(2)</text>
+</g>
+<g class="key" transform="rotate(-12 916.2 482.6)">
+<rect class="key-shell" x="878.2" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="885.2" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="916.2" y="483.6">Space</text>
+</g>
+<g class="key" transform="rotate(-22 821.6 500.0)">
+<rect class="key-shell" x="783.6" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="790.6" y="476.0" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="821.6" y="501.0">MO(4)</text>
+</g>
+</g>
+<g class="layer" transform="translate(0,2284)">
+<rect class="layer-row" x="0" y="0" width="1392" height="540"/>
+<text class="layer-title" x="32" y="31">Layer 4 · Vim Mouse</text>
+<line class="layer-rule" x1="32" y1="49" x2="1360" y2="49"/>
+<g class="key">
+<rect class="key-shell" x="61.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="99.1" y="230.3">Esc</text>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="152.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="205.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="243.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="176.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="334.1" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="147.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="425.1" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="176.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:10px" x="554.1" y="217.3">Mouse</text>
+<text class="key-text" style="font-size:10px" x="554.1" y="230.3">Accel</text>
+<text class="key-text" style="font-size:10px" x="554.1" y="243.3">2</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="99.1" y="302.8">Tab</text>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="152.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="277.8" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="243.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="248.8" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="334.1" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="219.8" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="425.1" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="248.8" width="62" height="48" rx="6"/>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:10px" x="554.1" y="289.8">Mouse</text>
+<text class="key-text" style="font-size:10px" x="554.1" y="302.8">Accel</text>
+<text class="key-text" style="font-size:10px" x="554.1" y="315.8">1</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="375.3">LShift</text>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="152.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="350.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="243.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="321.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="334.1" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="341.1" y="292.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key">
+<rect class="key-shell" x="425.1" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="432.1" y="321.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:10px" x="463.1" y="333.3">Mouse</text>
+<text class="key-text" style="font-size:10px" x="463.1" y="346.3">Wheel</text>
+<text class="key-text" style="font-size:10px" x="463.1" y="359.3">Left</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="516.1" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="523.1" y="350.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:10px" x="554.1" y="362.3">Mouse</text>
+<text class="key-text" style="font-size:10px" x="554.1" y="375.3">Wheel</text>
+<text class="key-text" style="font-size:10px" x="554.1" y="388.3">Right</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="619.8" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="626.8" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="657.8" y="337.8">Mute</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="61.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="68.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="99.1" y="477.8">LCtrl</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="152.1" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="159.1" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="190.1" y="477.8">LGui</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="243.1" y="416.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="250.1" y="423.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="281.1" y="448.8">MO(3)</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="370.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="377.5" y="461.5" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="408.5" y="486.5">LAlt</text>
+</g>
+<g class="key" transform="rotate(12 506.8 482.6)">
+<rect class="key-shell" x="468.8" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="475.8" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="506.8" y="483.6">Space</text>
+</g>
+<g class="key" transform="rotate(22 601.4 500.0)">
+<rect class="key-shell" x="563.4" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="570.4" y="476.0" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="601.4" y="501.0">MO(1)</text>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="827.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="205.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:10px" x="956.3" y="188.3">Mouse</text>
+<text class="key-text" style="font-size:10px" x="956.3" y="201.3">Wheel</text>
+<text class="key-text" style="font-size:10px" x="956.3" y="214.3">Up</text>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="1009.3" y="140.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="147.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="169.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="176.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="1138.3" y="193.8">Mouse</text>
+<text class="key-text" style="font-size:12px" x="1138.3" y="208.8">3</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="1229.3" y="222.8">Mouse</text>
+<text class="key-text" style="font-size:12px" x="1229.3" y="237.8">2</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="198.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="205.3" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="1320.3" y="222.8">Mouse</text>
+<text class="key-text" style="font-size:12px" x="1320.3" y="237.8">1</text>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="827.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="277.8" width="62" height="48" rx="6"/>
+</g>
+<g class="key">
+<rect class="key-shell" x="918.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:10px" x="956.3" y="260.8">Mouse</text>
+<text class="key-text" style="font-size:10px" x="956.3" y="273.8">Wheel</text>
+<text class="key-text" style="font-size:10px" x="956.3" y="286.8">Down</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1009.3" y="212.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="219.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="1047.3" y="237.3">Mouse</text>
+<text class="key-text" style="font-size:12px" x="1047.3" y="252.3">Right</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="241.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="248.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="1138.3" y="266.3">Mouse</text>
+<text class="key-text" style="font-size:12px" x="1138.3" y="281.3">Up</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="1229.3" y="295.3">Mouse</text>
+<text class="key-text" style="font-size:12px" x="1229.3" y="310.3">Down</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="270.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="277.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="1320.3" y="295.3">Mouse</text>
+<text class="key-text" style="font-size:12px" x="1320.3" y="310.3">Left</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="723.6" y="305.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="730.6" y="312.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:12px" x="761.6" y="330.3">Mouse</text>
+<text class="key-text" style="font-size:12px" x="761.6" y="345.3">1</text>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="827.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="834.3" y="350.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="918.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="925.3" y="321.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="1009.3" y="285.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1016.3" y="292.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="1100.3" y="314.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="321.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="1191.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="350.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key key-empty">
+<rect class="key-shell" x="1282.3" y="343.3" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="350.3" width="62" height="48" rx="6"/>
+</g>
+<g class="key">
+<rect class="key-shell" x="1100.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1107.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1138.3" y="477.8">Right</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1191.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1198.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1229.3" y="477.8">Down</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="1282.3" y="445.8" width="76" height="62" rx="7"/>
+<rect class="key-face" x="1289.3" y="452.8" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:17px" x="1320.3" y="477.8">Left</text>
+</g>
+<g class="key">
+<rect class="key-shell" x="976.5" y="454.5" width="76" height="62" rx="7"/>
+<rect class="key-face" x="983.5" y="461.5" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="1014.5" y="486.5">MO(2)</text>
+</g>
+<g class="key" transform="rotate(-12 916.2 482.6)">
+<rect class="key-shell" x="878.2" y="451.6" width="76" height="62" rx="7"/>
+<rect class="key-face" x="885.2" y="458.6" width="62" height="48" rx="6"/>
+<text class="key-text" style="font-size:14px" x="916.2" y="483.6">Space</text>
+</g>
+<g class="key key-empty" transform="rotate(-22 821.6 500.0)">
+<rect class="key-shell" x="783.6" y="469.0" width="76" height="62" rx="7"/>
+<rect class="key-face" x="790.6" y="476.0" width="62" height="48" rx="6"/>
+</g>
+</g>
+</svg>
